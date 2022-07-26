@@ -48,6 +48,8 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+
 }
 .single-card{
     background-color: #2a3a46;
