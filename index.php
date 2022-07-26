@@ -18,6 +18,7 @@
     <main>
         <div class="container">
             <div class="card-wrapper">
+                
                 <?php foreach ($discs as $disk) {?>
                     <div class="single-card">
                     
